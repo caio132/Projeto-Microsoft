@@ -1,4 +1,4 @@
-module.exports =  {
-  id: 1003,
-  api: 'http://192.168.2.185:8080'
-  };
+module.exports = {
+    id: "49",
+    api: 'http://buzy.azurewebsites.net'
+};

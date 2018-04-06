@@ -1,0 +1,23 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "asdsaddsadsa",
+  "main": "Sensor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Busy-CodeXP/IOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Busy-CodeXP/IOT/issues"
+  },
+  "homepage": "https://github.com/Busy-CodeXP/IOT#readme",
+  "dependencies": {
+    "johnny-five": "^0.14.1",
+    "request": "^2.85.0"
+  }
+}
